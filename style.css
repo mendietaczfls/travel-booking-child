@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Travel Booking Child
+ Theme URI:    https://demo.wptravelengine.com/travel-booking/
+ Description:  Travel Booking Child Theme
+ Author:       Joe Jiang
+ Author URI:   https://www.linkedin.com/in/joejiangunsw/
+ Template:     travel-booking
+ Version:      0.0.1
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: travel-booking
+ Tags: two-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready, blog, photography, portfolio
+*/
+
+@import url(//fonts.googleapis.com/earlyaccess/notosansscsliced.css);
+
+/*set Chinese font*/
+body {
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+  /*font-family: sans-serif, 'Microsoft JhenHei', 'Microsoft YaHei';*/
+}
